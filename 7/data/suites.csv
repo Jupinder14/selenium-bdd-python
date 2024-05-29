@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed May 29 20:12:11 GMT 2024","Wed May 29 20:12:14 GMT 2024","2586","","","","","","Verify the user can not login with invalid credentials -- @1.2 ",""
+"passed","Wed May 29 20:12:08 GMT 2024","Wed May 29 20:12:11 GMT 2024","2813","","","","","","Verify the user can not login with invalid credentials -- @1.1 ",""
+"passed","Wed May 29 20:12:01 GMT 2024","Wed May 29 20:12:08 GMT 2024","7126","","","","","","Verify the user can login with valid credentials -- @1.1 ",""
+"passed","Wed May 29 20:12:16 GMT 2024","Wed May 29 20:12:19 GMT 2024","2339","","","","","","Verify the user can not login with invalid credentials -- @1.4 ",""
+"passed","Wed May 29 20:12:14 GMT 2024","Wed May 29 20:12:16 GMT 2024","2549","","","","","","Verify the user can not login with invalid credentials -- @1.3 ",""
