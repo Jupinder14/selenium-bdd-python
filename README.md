@@ -34,4 +34,4 @@ https://github.com/Jupinder14/selenium-bdd-python/actions
 ### Reporting
 
 An Allure report is deployed to github pages on every test run.
-You can check the latest report at https://jupinder14.github.io/selenium-bdd-python/
+You can check the latest report at https://jupinder14.github.io/selenium-bdd-python
