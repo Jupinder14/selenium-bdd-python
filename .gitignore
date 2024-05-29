@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+allure_results
+allure-report/
+*.json
+*.png
