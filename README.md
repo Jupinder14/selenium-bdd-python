@@ -29,7 +29,7 @@ A workflow is added to run with Github Actions every time a new change is made.
 You can check the workflow file under .github/workflows
 
 On every pull request, the workflow will run an it can be seen on Github Actions page.
-https://github.com/Jupinder14/python-behave/actions
+https://github.com/Jupinder14/selenium-bdd-python/actions
 
 ### Reporting
 
